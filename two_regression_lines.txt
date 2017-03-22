@@ -1,0 +1,12 @@
+two regression lines
+
+We have, 4x – 5y + 33 = 0 => y = 4x/5 + 33/5 --------------- (i)
+
+And 20x – 9y – 107 = 0 => x = 9y/20 + 107/20 ------------- (ii)
+
+Solving (i) and (ii) we get, mean of x = 13 and mean of y = 17.[Ans.] 
+
+Second line is line of x on y x = (9/20) × 7 + (107/20) = 170/20 = 8.5 [Ans.] 
+
+byx = r(σy/σx) => 4/5 = 0.6 × σy/3 [r = √(byx.bxy) = √{(4/5)(9/20)}= 0.6
+=> σy = (4/5)(3/0.6) = 4 [Ans.]
